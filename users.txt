@@ -1,0 +1,1 @@
+{'': set(), 'CmuStudent': {'Cmu_cmuMall.txt'}, 'NewUser': {'New_demomap.txt'}, 'ChrisWallace': {'Chris_demowithlexi.txt', 'Chris_cubeex.txt', 'Chris_cmuMallCutGates.txt'}, 'AnotherUser': set(), 'Usermap': set(), 'FakeUser': {'Fake_nodeedit.txt'}, 'LiveDemo': {'Live_livedemomap.txt'}, 'LexiCutie': set()}

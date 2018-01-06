@@ -1,0 +1,9 @@
+UPDATES
+
+Chris Wallace
+Pythoneas
+
+-Now the program is meant for the creation and sharing of maps, rather than the use of a CMU map
+-There is a front end with multiple splash screens, for browsing other maps as well as editing maps
+-All data, nodes, edges, weights, info about nodes/edges/etc. will be user entered
+-In conclusion, Pythoneas is now more broad in scope and allows for user creation
